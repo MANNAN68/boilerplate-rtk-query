@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logoImage from "../assets/images/lws-logo-light.svg";
+import logoImage from "../assets/images/logo.svg";
 import Error from "../components/ui/Error";
 
 export default function Login() {
@@ -12,7 +12,7 @@ export default function Login() {
                             <img
                                 className="mx-auto h-12 w-auto"
                                 src={logoImage}
-                                alt="Learn with sumit"
+                                alt="Learn with noman"
                             />
                         </Link>
                         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
